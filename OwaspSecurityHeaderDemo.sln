@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwaspSecurityHeaderDemo", "OwaspSecurityHeaderDemo\OwaspSecurityHeaderDemo.csproj", "{0B05E780-E98B-406C-95F4-98FECEF3DEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B05E780-E98B-406C-95F4-98FECEF3DEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B05E780-E98B-406C-95F4-98FECEF3DEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B05E780-E98B-406C-95F4-98FECEF3DEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B05E780-E98B-406C-95F4-98FECEF3DEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E940FBBA-4529-45AB-AC65-976A56AB72E5}
+	EndGlobalSection
+EndGlobal
